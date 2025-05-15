@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// int data type is used to store non - decimals values
 int main(){
     int x = 5;
     int y = 2;
