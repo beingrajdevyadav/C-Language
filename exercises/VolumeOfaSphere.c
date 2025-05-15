@@ -4,14 +4,12 @@
 
 #include <stdio.h>
 int main(){
-float c = 4;
-float t = 3;
-float pi = 3.14;
-float r;
-r = 5;
-float valume = (c*pi*r*r*r)/t;
 
-printf("%f", valume);
+float pi = 3.1415;
+float r = 5;
+float v =(4* pi * r * r * r) / 3;
+
+printf("%f", v);
 
 return 0;
 }

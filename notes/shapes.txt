@@ -1,0 +1,6 @@
+3D Shapes Maths Formulas To Calculate Volume & Surface Area : 
+1. Sphere
+2. Cylinder
+3. Cone
+4. Cube
+5. Rectangular Prism
