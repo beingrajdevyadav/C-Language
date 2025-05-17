@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 int main(){
+    
 float pi = 3.1415;
 float r;
 
@@ -10,6 +11,6 @@ scanf("%f", &r);
 
 float A = 4 * pi * r * r;
 printf("Sphere Surface Area = %f", A);
-    return 0;
+return 0;
 
 }
