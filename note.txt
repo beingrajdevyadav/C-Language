@@ -1,0 +1,2 @@
+1. printf() is used to print output.
+2. scanf() is used to take input from user.
